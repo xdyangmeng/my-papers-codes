@@ -1,0 +1,9 @@
+@article{meng2018feature,
+	title={Feature selection based dual-graph sparse non-negative matrix factorization for local discriminative clustering},
+	author={Meng, Yang and Shang, Ronghua and Jiao, Licheng and Zhang, Wenya and Yuan, Yijing and Yang, Shuyuan},
+	journal={Neurocomputing},
+	volume={290},
+	pages={87--99},
+	year={2018},
+	publisher={Elsevier}
+}
